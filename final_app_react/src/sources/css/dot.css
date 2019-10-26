@@ -1,0 +1,15 @@
+.dotConnected {
+    height: 25px;
+    width: 25px;
+    background-color: rgb(38, 141, 25);
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .dotNotConnected {
+    height: 25px;
+    width: 25px;
+    background-color: grey;
+    border-radius: 50%;
+    display: inline-block;
+  }

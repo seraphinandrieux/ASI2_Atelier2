@@ -1,0 +1,24 @@
+.player1{
+   float:left; 
+}
+
+.player2{
+    float:right; 
+ }
+
+ .startButton{
+     float:center;
+ }
+
+ .endTurnButton{
+     float:center;
+ }
+
+ .player1Cards{
+     width:50%
+ }
+
+
+ .player2Cards{
+    width:50%
+}

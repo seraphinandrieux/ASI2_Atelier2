@@ -1,0 +1,41 @@
+{"users":[
+    {
+        "id":0,
+        "surname":"Seraphin",
+        "lastname":"Andrieux",
+        "username":"sandrieux",
+        "pwd":"coucou",
+        "money":"100",
+        "isConnected":true
+    },
+    {
+        "id":1,
+        "surname":"Celine",
+        "lastname":"Dechandon",
+        "username":"cdechandon",
+        "pwd":"coucou",
+        "money":"200",
+        "isConnected":false
+    },
+    {
+        "id":2,
+        "surname":"Camille",
+        "lastname":"Dahan",
+        "username":"cdahan",
+        "pwd":"coucou",
+        "money":"300",
+        "isConnected":true
+    },
+    {
+        "id":3,
+        "surname":"Rahiti",
+        "lastname":"Perodeau",
+        "username":"rperodeau",
+        "pwd":"coucou",
+        "money":"400",
+        "isConnected":false
+    }
+    ]
+    
+
+}

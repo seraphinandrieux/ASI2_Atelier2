@@ -1,0 +1,11 @@
+
+
+
+  .chatSide{
+    background-color: rgb(250, 241, 241);
+    width: 400px;
+    height: 400px;
+    overflow: scroll;
+    border:1px    solid black;
+  }
+
